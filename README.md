@@ -1,5 +1,4 @@
 # IoT-enabled-Smart-Control-Valve-for-Industrial-application
-# IoT-Enabled Smart Control Valve
 
 ## Overview
 This project presents an IoT-enabled smart control valve designed for industrial process automation. The system uses an **ESP32 microcontroller** to integrate multiple sensors and provides real-time monitoring, remote operation, and a data-driven approach to maintenance.
